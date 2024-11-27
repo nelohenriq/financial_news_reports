@@ -1,0 +1,12 @@
+{
+  "crypto": [
+    "BTC-USD",
+    "ETH-USD",
+    "XRP-USD",
+    "SOL-USD",
+    "DOGE-USD",
+    "SHIB-USD"
+  ],
+  "forex": ["EURUSD=X", "JPYUSD=X", "GBPUSD=X", "AUDUSD=X", "NZDUSD=X"],
+  "stocks": ["AAPL", "TSLA", "MSFT", "GOOG", "AMZN"]
+}
