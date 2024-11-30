@@ -1,4 +1,3 @@
-from operator import neg
 import os
 import json
 import logging
